@@ -1,5 +1,5 @@
 # starter
-🅰Primera pueba del curso con Angular16: Cluster Tic Galicia🕹
+🅰Módulo 1 del curso con Angular16: Cluster Tic Galicia🕹
 
 ## 📌 Problemas de environments
 * Ejecuntando este comando los crea:
